@@ -2,6 +2,3 @@
 for mahmoud almarzy git Cours
 
 ## project nots
-
-
-this is notes
